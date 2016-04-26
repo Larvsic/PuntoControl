@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< master
 Se volvió a modificar el fichero F1
 =======
 Ahora se modificó el F1 desde la rama Feature1
 >>>>>>> e16273e C5 Se modifico el F1 desde la rama Feature1
+=======
+Se modificó una vez mas el fichero1
+>>>>>>> refs/heads/Feature2
